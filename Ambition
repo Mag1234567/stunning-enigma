@@ -1,0 +1,30 @@
+<html>
+
+<head>
+    <style></style>
+</head>
+
+<style>
+body { background-color:rgb(185, 210, 255)} 
+p { background-color: rgb(185, 210, 255);}   
+p{ font-size: xx-large;}
+body {font-size:xx-large;}
+p {font-style: oblique;}
+body {font-style: unset;}
+p {color: rgb(3, 3, 102);}
+
+</style>
+
+
+    <title>Ambition</title>
+
+<body>
+   
+She stole your hand sanitizer --->
+    <div></div>
+
+    <p> (Evelena)</p>
+</body>
+</head>
+
+</html>
